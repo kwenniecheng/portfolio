@@ -248,7 +248,7 @@ function buildProjectCard(proj) {
   card.id = `card-${proj.id}`;
 
   const linkBadge = proj.externalUrl
-    ? `<a href="${proj.externalUrl}" target="_blank" rel="noopener" class="ext-link-badge">Open Interactive Project ↗</a>`
+    ? `<a href="${proj.externalUrl}" target="_blank" rel="noopener" class="ext-link-badge">Open project ↗</a>`
     : "";
 
   let descriptionHtml = "";

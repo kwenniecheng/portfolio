@@ -349,7 +349,6 @@ a {
 
 .project-description a:hover::before {
   opacity: 1;
-  font-weight: 600;
   transform: scale(1);
 }
 
@@ -806,6 +805,7 @@ a {
 
 @media (hover: hover) {
   .grid-item:hover { z-index: 5; }
+  .grid-item:hover .grid-title { font-weight: 600; }
   .grid-item:hover .grid-thumb::before {
     opacity: 1;
     transform: translate(-50%, -50%) scale(1);

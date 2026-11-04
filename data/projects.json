@@ -34,24 +34,40 @@
   ],
   "meta": ["Client: NRC", "Year: 2023-present"]
 },
-  {
+{
+   "id": "far-right",
+   "title": "Far Right in Germany",
+   "categories": ["motion", "journalism"],
+   "thumb": "assets/projects/far-right/thumb.png",       
+   "images": [
+     "https://vimeo.com/1243255486?share=copy",
+     "https://vimeo.com/1243256160?share=copy",
+     "https://youtu.be/l2Jjo89wJPs?si=mqR43x2O8c9C6sYP"
+   ],
+   "description":[
+     "I visualised election results and socio-economic data to show where AfD became the largest party and how support correlates with income. ",
+     "Using maps, graphs, and animations including average income per municipality, the video highlights that AfD support is strongest in relatively poorer regions. By combining multiple visual layers, I made complex electoral data clear, contextualized, and engaging for viewers."
+   ],
+   "meta": ["Client: Nieuwsuur", "Year: 2023"]
+},
+{
     "id": "nobelprize",
-    "title": "Who wins the Nobel Prize?",
-    "categories": ["datavis", "journalism", "illustration"],
-    "images": [
-      "assets/projects/nobelprize/nobelprize-who.webp",
-      "assets/projects/nobelprize/nobelprize-men.webp",
-      "assets/projects/nobelprize/nobelprize-region.webp",
-      "assets/projects/nobelprize/nobelprize-best.webp",
-      "assets/projects/nobelprize/nobelprize-income.webp",
-      "assets/projects/nobelprize/nobelprize-page.webp",
-      "assets/projects/nobelprize/nobelprize-page-en.webp"      
-    ],
-    "description": [
-      "I designed a collection of visualisations showing that the overwhelming majority of Nobel Prize laureates are wealthy, Western men. While representation is slowly improving, the disparity remains significant. The project combines more complex data visualisations with simpler charts, where I could loosen the strict, clean style and incorporate illustrations directly into the graphics. I wanted to add playfulness while keeping the data readable and engaging.",
-      "Click <a href='https://www.nrc.nl/nieuws/2025/10/03/wie-maakt-de-meeste-kans-op-een-nobelprijs-a4908080' target='_blank' rel='noopener noreferrer'>here</a> to view the project at NRC."
-    ],
-    "meta": ["Client: NRC", "Year: 2025"]    
+   "title": "Who wins the Nobel Prize?",
+   "categories": ["datavis", "journalism", "illustration"],
+   "images": [
+     "assets/projects/nobelprize/nobelprize-who.webp",
+     "assets/projects/nobelprize/nobelprize-men.webp",
+     "assets/projects/nobelprize/nobelprize-region.webp",
+     "assets/projects/nobelprize/nobelprize-best.webp",
+     "assets/projects/nobelprize/nobelprize-income.webp",
+     "assets/projects/nobelprize/nobelprize-page.webp",
+     "assets/projects/nobelprize/nobelprize-page-en.webp"      
+   ],
+   "description": [
+     "I designed a collection of visualisations showing that the overwhelming majority of Nobel Prize laureates are wealthy, Western men. While representation is slowly improving, the disparity remains significant. The project combines more complex data visualisations with simpler charts, where I could loosen the strict, clean style and incorporate illustrations directly into the graphics. I wanted to add playfulness while keeping the data readable and engaging.",
+     "Click <a href='https://www.nrc.nl/nieuws/2025/10/03/wie-maakt-de-meeste-kans-op-een-nobelprijs-a4908080' target='_blank' rel='noopener noreferrer'>here</a> to view the project at NRC."
+   ],
+   "meta": ["Client: NRC", "Year: 2025"]    
 },
   {
     "id": "editorial",
@@ -193,39 +209,50 @@
       "assets/projects/amsterdam/kwennie-waterlooplein-mozesaaronkerk.jpg"
     ],
     "description":[
-      "first paragraph",
-      "second paragraph"
+      "landmarks in Amsterdam"
+
     ],
     "meta": ["Client: personal project", "Year: 2023"]
   },
   {
-    "id": "far-right",
-    "title": "Far Right in Germany",
-    "categories": ["motion", "journalism"],
-    "thumb": "assets/projects/far-right/thumb.png",       
+    "id": "dutch-portraits",
+    "title": "Dutch artists and thinkers",
+    "categories": ["illustration"],
     "images": [
-      "https://vimeo.com/1243255486?share=copy",
-      "https://vimeo.com/1243256160?share=copy",
-      "https://youtu.be/l2Jjo89wJPs?si=mqR43x2O8c9C6sYP"
+      "assets/projects/dutch-portraits/mondriaan.webp",
+      "assets/projects/dutch-portraits/gogh.jpg",
+      "assets/projects/dutch-portraits/erasmus.webp",
+      "assets/projects/dutch-portraits/leyster.webp",
+      "assets/projects/dutch-portraits/hals.webp",
+      "assets/projects/dutch-portraits/campen.webp",
+      "assets/projects/dutch-portraits/couperus.webp",
+      "assets/projects/dutch-portraits/pallandt.webp",
+      "assets/projects/dutch-portraits/dudok.webp",
+      "assets/projects/dutch-portraits/spinoza.webp",
+      "assets/projects/dutch-portraits/cuypers.webp",
+      "assets/projects/dutch-portraits/rembrandt.webp",
+      "assets/projects/dutch-portraits/rietveld.webp",
+      "assets/projects/dutch-portraits/vondel.webp",
+      "assets/projects/dutch-portraits/mondriaan-foto.webp",
+      "assets/projects/dutch-portraits/gogh-foto.webp",
+      "assets/projects/dutch-portraits/erasmus-foto.webp",
+      "assets/projects/dutch-portraits/leyster-foto.webp",
+      "assets/projects/dutch-portraits/hals-foto.webp",
+      "assets/projects/dutch-portraits/campen-foto.webp",
+      "assets/projects/dutch-portraits/couperus-foto.webp",
+      "assets/projects/dutch-portraits/pallandt-foto.webp",
+      "assets/projects/dutch-portraits/dudok-foto.webp",
+      "assets/projects/dutch-portraits/spinoza-foto.webp",
+      "assets/projects/dutch-portraits/cuypers-foto.webp",
+      "assets/projects/dutch-portraits/rembrandt-foto.webp",
+      "assets/projects/dutch-portraits/rietveld-foto.webp",
+      "assets/projects/dutch-portraits/vondel-foto.webp"
     ],
     "description":[
-      "I visualised election results and socio-economic data to show where AfD became the largest party and how support correlates with income. ",
-      "Using maps, graphs, and animations including average income per municipality, the video highlights that AfD support is strongest in relatively poorer regions. By combining multiple visual layers, I made complex electoral data clear, contextualized, and engaging for viewers."
+      "Within the Dutch Ministry of Justice and Security in The Hague meeting rooms are named after Dutch artists and thinkers.",
+      "Each of these 14 meeting rooms are now provided with illustrated portraits reflected on what made them stand out, how their work moved our science, art, philosophy or social environment forward throughout history."
     ],
-    "meta": ["Client: Nieuwsuur", "Year: 2023"]
-  },
-  {
-    "id": "project-13",
-    "title": "Project 13",
-    "categories": ["datavis"],
-    "images": [
-      "assets/projects/amsterdam/kwennie-CS-station.jpg"
-    ],
-    "description":[
-      "first paragraph",
-      "second paragraph"
-    ],
-    "meta": ["Client: personal project", "Year: 2023"]
+    "meta": ["Client: Ministry of Justice and Security", "Year: 2019"]
   },
   {
     "id": "project-14",

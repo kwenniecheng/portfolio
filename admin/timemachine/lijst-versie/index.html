@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kwennie Cheng | illustration, data, journalism</title>
+
+  <!-- Google Fonts: Manrope (Headings) & Poppins (Body) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="assets/site/favicon_kwenniecheng.png">
+</head>
+<body>
+
+  <!-- STICKY TOP NAVBAR -->
+  <header class="navbar">
+    <div class="nav-container">
+      <!-- Logo links directly back to Home ("All" Work) -->
+    <a href="index.html" class="logo">
+      <img src="assets/site/logo_kwenniecheng.png" alt="Kwennie Cheng" class="logo-desktop">
+      <img src="assets/site/logo_kwenniecheng_m.png" alt="Kwennie Cheng" class="logo-mobile">
+    </a>
+
+      <nav class="nav-links">
+          <!-- <a href="blog.html">Blog</a> -->
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- CATEGORY FILTER BAR (Fabian Schwarzinger Reference) -->
+  <div class="category-bar">
+    <div class="category-container">
+<button class="cat-btn active" data-category="all">ALL</button>
+      <button class="cat-btn" data-category="datavis">
+        <span class="dot dot-datavis"></span> Data Viz
+      </button>
+      <button class="cat-btn" data-category="journalism">
+        <span class="dot dot-journalism"></span> Journalism
+      </button>
+      <button class="cat-btn" data-category="illustration">
+        <span class="dot dot-illustration"></span> Illustration
+      </button>
+      <button class="cat-btn" data-category="motion">
+        <span class="dot dot-motion"></span> Motion
+      </button>
+    </div>
+  </div>
+
+  <!-- MAIN TWO-COLUMN LAYOUT (Kelli Anderson Reference) -->
+  <main class="portfolio-container">
+    <!-- LEFT STICKY INDEX COLUMN -->
+    <aside class="left-index" id="left-index">
+      <!-- Populated dynamically via script.js from projects.json -->
+    </aside>
+
+    <!-- RIGHT FULL-BLEED IMAGE STREAM COLUMN -->
+    <section class="right-stream" id="right-stream">
+      <!-- Populated dynamically via script.js from projects.json -->
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

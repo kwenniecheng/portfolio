@@ -1,0 +1,22 @@
+my-portfolio/
+│
+├── index.html            <-- Main Portfolio (Sticky Index + Image Feed)
+├── about.html            <-- About Page (Photo Left + Text Right)
+├── contact.html          <-- Contact Page (Text Only)
+├── blog.html             <-- Blog Page (Card Grid + Easy Post Addition)
+├── styles.css            <-- Global Styles, Responsive Breakpoints, Colors, Fonts
+├── script.js             <-- Dynamic Renderer & Category Filter Logic
+│
+├── data/
+│   ├── projects.json     <-- All 15 projects with categories & multi-image support
+│   └── posts.json        <-- Blog posts data file (Easy to add new posts)
+│
+└── assets/
+    ├── site/
+    │   ├── logo.svg
+    │   ├── favicon.ico
+    │   └── about-photo.jpg
+    └── projects/
+        ├── project-1/
+        ├── project-2/
+        └── ...

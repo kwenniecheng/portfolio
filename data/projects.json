@@ -1,0 +1,203 @@
+[
+
+{
+  "id": "land-appropriation",
+  "title": "My grandma's land appropriation",
+   "categories": ["journalism", "illustration"],
+   "images": [
+     "assets/projects/land-appropriation/land-appropriation[kwenniecheng].jpg"
+  ],
+  "externalUrl": "https://decorrespondent.nl/7383/beeldverhaal-china-moderniseert-dus-werd-mijn-oma-s-land-onteigend/2e41dd03-487d-0dae-2897-0e8e2d26b93f",
+  "description": [
+    "My grandmother farmland became gradually smaller in rural China as local development plans changed the landscape around her. From 1996 until 2017, I followed how the land she once farmed was incrementally taken for infrastructure and urban expansion. Eventually, she was relocated and the place where her home and fields once stood is now occupied by a gas station and a major road.",
+    "In Western media, land appropriation in China is often portrayed as sudden and conflict-driven. While such conflicts do happen, many cases unfold more gradually and with little conflict or confrontation. By focusing on the personal story of my grandmother, this piece shows the broader transformation of China’s rural landscape. This is a dynamic rendition of the <a href='https://decorrespondent.nl/7383/beeldverhaal-china-moderniseert-dus-werd-mijn-oma-s-land-onteigend/2e41dd03-487d-0dae-2897-0e8e2d26b93f' target='_blank'>original story</a>."
+   ],
+  "meta": ["Client: De Correspondent/ personal project rendition", "Year: 2017/ 2026"]  
+},  
+{
+  "id": "oogopslag",
+  "title": "data driven op-ed illustrations",
+  "categories": ["datavis", "journalism", "illustration"],
+  "images": [
+    "assets/projects/oogopslag/greener.webp", 
+    "assets/projects/oogopslag/journalists.webp", 
+    "assets/projects/oogopslag/clouds.webp",
+    "assets/projects/oogopslag/smoking.webp",
+    "assets/projects/oogopslag/animalsequal.webp",
+    "assets/projects/oogopslag/balance.webp",        
+    "assets/projects/oogopslag/forgottenwar.webp",        
+    "assets/projects/oogopslag/paperborders.webp"
+  ],
+  "description": [
+    "Selected work for Dutch newspaper NRC, where I create a biweekly data-driven illustration column. I pitch story ideas, conduct independent research, and translate the findings into illustrations for the op-ed section, published both in print and online.",
+    "Click <a href='https://www.nrc.nl/rubriek/oogopslag/' target='_blank' rel='noopener noreferrer'>here</a> to view them all in Dutch."
+  ],
+  "meta": ["Client: NRC", "Year: 2023-present"]
+},
+  {
+    "id": "nobelprize",
+    "title": "Who wins the Nobel Prize?",
+    "categories": ["datavis", "journalism", "illustration"],
+    "images": [
+      "assets/projects/nobelprize/nobelprize-who.webp",
+      "assets/projects/nobelprize/nobelprize-men.webp",
+      "assets/projects/nobelprize/nobelprize-region.webp",
+      "assets/projects/nobelprize/nobelprize-best.webp",
+      "assets/projects/nobelprize/nobelprize-income.webp",
+      "assets/projects/nobelprize/nobelprize-page.webp",
+      "assets/projects/nobelprize/nobelprize-page-en.webp"      
+    ],
+    "description": [
+      "I designed a collection of visualisations showing that the overwhelming majority of Nobel Prize laureates are wealthy, Western men. While representation is slowly improving, the disparity remains significant. The project combines more complex data visualisations with simpler charts, where I could loosen the strict, clean style and incorporate illustrations directly into the graphics. I wanted to add playfulness while keeping the data readable and engaging.",
+      "Click <a href='https://www.nrc.nl/nieuws/2025/10/03/wie-maakt-de-meeste-kans-op-een-nobelprijs-a4908080' target='_blank' rel='noopener noreferrer'>here</a> to view the project at NRC."
+    ],
+    "meta": ["Client: NRC", "Year: 2025"]    
+},
+  {
+    "id": "editorial",
+    "title": "editorial illustration",
+    "categories": ["journalism", "illustration"],
+    "images": [
+      "assets/projects/editorial/benzo-addict[kwenniecheng].webp",
+      "assets/projects/editorial/winterdip[kwenniecheng].webp",      
+      "assets/projects/editorial/null[kwenniecheng].webp",
+      "assets/projects/editorial/rainwater[kwenniecheng].webp",
+      "assets/projects/editorial/risespotify[kwenniecheng].webp",
+      "assets/projects/editorial/scabies[kwenniecheng].webp",                        
+      "assets/projects/editorial/caraccident[kwenniecheng].webp",
+      "assets/projects/editorial/foodforthought[kwenniecheng].webp",
+      "assets/projects/editorial/googleeducation[kwenniecheng].webp",
+      "assets/projects/editorial/history-climatechange[kwenniecheng].webp",
+      "assets/projects/editorial/knooppunt-hoevelaken[kwenniecheng].webp",
+      "assets/projects/editorial/newcookbooks[kwenniecheng].webp"
+    ],
+    "description": [
+      "Selected editorial illustration work from the past 12 years, where I explore visual metaphors to capture the essence of each story. Illustrations have been created for various newspapers and magazines, including Trouw, NRC, De Volkskrant, and VPRO."
+    ],
+    "meta": ["Client: various", "Year: 2019-present"]    
+  },
+  {
+    "id": "elections",
+    "title": "Dutch general elections 2021",
+    "categories": ["datavis", "journalism", "motion"],
+    "images": [
+      "https://vimeo.com/1173369389?fl=pl&fe=sh",
+      "https://vimeo.com/1173369546?fl=pl&fe=sh"
+    ],
+    "description": [
+      "Part of a series of analysis videos leading up to the 2023 Dutch national elections, each focusing on a key political issue.",
+      "For <a href='https://youtu.be/jpKP-sMja00?si=YJZCj2zi9sPrV4g9' target='_blank'>this episode</a> on the housing crisis, I translated data research into visuals. Colleague journalists analysed parliamentary motions and how each party voted, and I turned their findings into a heatmap, both as a physical set pieces and animated overlays, to highlight key insights. By combining tangible visuals with motion design, I helped make complex political data clear and engaging for viewers."
+    ],
+    "meta": ["Client: Nieuwsuur", "Year: 2021"]    
+  },  
+  {
+    "id": "duiker-doris",
+    "title": "Doris the Diver, Martime Museum Amsterdam",
+    "categories": ["illustration"],
+    "images": [
+      "assets/projects/duiker-doris/HSM_DD_3.jpg",
+      "assets/projects/duiker-doris/HSM_DD_4.jpg",
+      "assets/projects/duiker-doris/HSM_DD_5.jpg",
+      "assets/projects/duiker-doris/HSM_DD_1.jpg",
+      "assets/projects/duiker-doris/HSM_DD_2.jpg",
+      "assets/projects/duiker-doris/HSM_DD_boek.jpg",
+      "assets/projects/duiker-doris/doris-paraplu-meeuw.png",
+      "assets/projects/duiker-doris/DD_logo.png" 
+    ],
+    "description": [
+      "Doris the Diver is an adventurous, maritime museum experience for families with children aged 2 years and older in the National Maritime Museum (Het Scheepvaartmuseum) in Amsterdam.",
+      "Children aged 2+ and their company: from friends to parent, carer, aunt, grandfather or babysitter – can get acquainted with the National Maritime Museum, love for water and the maritime world in a playful way.",
+      "Together, visitors can explore the worlds under and on the surface of the water and follow Diver Doris on her quest from sea to land.",
+      "Doris the Diver is a <a href='https://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/duiker-doris' target='_blank'>permanent exhibition</a> and opened in October 2022."
+    ],
+    "meta": ["Client: Het Scheepvaartmuseum, Amsterdam", "Year: 2022"]     
+  },
+  {
+    "id": "modern-slavery",
+    "title": "Modern slavery",
+    "categories": ["journalism", "motion"],
+    "images": [
+      "assets/projects/modern-slavery/modern-slavery-libanon.webp",
+      "assets/projects/modern-slavery/modern-slavery-thailand.webp",
+      "assets/projects/modern-slavery/modern-slavery-ecuador.webp",      
+      "https://vimeo.com/1172347668?fl=pl&fe=sh",
+      "https://vimeo.com/1172347512?fl=pl&fe=sh"
+    ],
+    "description": [
+      "his story reports on modern slavery in Ecuador, Lebanon, Thailand and the Netherlands. Given an audio testimony and some location footage as reference, I developed the storyboard and decided what to reconstruct frame by frame. Because hand-drawn animation is time-intensive, I worked with reporters to shorten the testimonies to what was feasible without losing the story. The editor opted for illustrations over staged video reconstruction to signal clearly it was a retelling. I chose a frame-by-frame approach to combine my illustration style with animation. Working within Nieuwsuur's visual style, I sourced additional reference material to draw from."
+    ],
+    "meta": ["Client: Nieuwsuur", "Year: 2023"]  
+  },
+  {
+    "id": "project-8",
+    "title": "Project 8",
+    "categories": ["journalism", "illustration"],
+    "images": [
+      "assets/projects/project-8/hero.jpg",
+      "assets/projects/project-8/image1.jpg"
+    ],
+    "description": [
+      "Description for Project 8.",
+      "Second line of description for Project 8."
+    ],
+    "meta": ["Client: NAME", "Year: 202X"]  
+  },
+  {
+    "id": "project-9",
+    "title": "Project 9",
+    "categories": ["motion"],
+    "images": [
+      "assets/projects/project-9/hero.jpg",
+      "assets/projects/project-9/image1.jpg"
+    ],
+    "description": [
+      "Description for Project 9.",
+      "Second line of description for Project 9."
+    ],
+    "meta": ["Client: NAME", "Year: 202X"]  
+  },
+  {
+    "id": "project-10",
+    "title": "Project 10",
+    "categories": ["datavis", "journalism"],
+    "images": [
+      "assets/projects/project-10/hero.jpg",
+      "assets/projects/project-10/image1.jpg"
+    ],
+    "description": [
+      "Description for Project 10.",
+      "Second line of description for Project 10."
+    ],
+    "meta": ["Client: NAME", "Year: 202X"]  
+  },
+  {
+    "id": "project-11",
+    "title": "Project 11",
+    "categories": ["illustration"],
+    "images": ["assets/projects/project-11/hero.jpg"]
+  },
+  {
+    "id": "project-12",
+    "title": "Project 12",
+    "categories": ["motion", "journalism"],
+    "images": ["assets/projects/project-12/hero.jpg"]
+  },
+  {
+    "id": "project-13",
+    "title": "Project 13",
+    "categories": ["datavis"],
+    "images": ["assets/projects/project-13/hero.jpg"]
+  },
+  {
+    "id": "project-14",
+    "title": "Project 14",
+    "categories": ["illustration", "motion"],
+    "images": ["assets/projects/project-14/hero.jpg"]
+  },
+  {
+    "id": "project-15",
+    "title": "Project 15",
+    "categories": ["journalism"],
+    "images": ["assets/projects/project-15/hero.jpg"]
+  }
+]

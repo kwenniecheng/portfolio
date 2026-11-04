@@ -1,0 +1,26 @@
+[
+  /* 
+    ==========================================================================
+    HOW TO ADD A NEW BLOG POST:
+    1. Copy one of the JSON objects below.
+    2. Paste it at the VERY TOP of this array (so it shows up first).
+    3. Update title, date, content, and image paths.
+    ==========================================================================
+  */
+  {
+    "id": "post-2",
+    "title": "Designing Data Visualizations for Scrollytelling",
+    "date": "November 2, 2026",
+    "content": "When structuring visual journalism pieces, balancing reader pacing with technical performance is critical...",
+    "images": [
+      "assets/site/blog-sample-1.jpg"
+    ]
+  },
+  {
+    "id": "post-1",
+    "title": "Launching my new hybrid portfolio",
+    "date": "October 15, 2026",
+    "content": "Welcome to my updated archive! Built to keep data visualization, editorial work, and motion design in one place.",
+    "images": []
+  }
+]

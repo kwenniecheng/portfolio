@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog | Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+  /* Logo sizing, inline so it applies on first paint */
+  .logo img { width: auto; max-width: none; }
+  .logo img.logo-desktop { display: block; height: 60px; }
+  .logo img.logo-mobile  { display: none;  height: 44px; }
+  @media (max-width: 700px) {
+    .logo img.logo-desktop { display: none; }
+    .logo img.logo-mobile  { display: block; }
+  }
+</style>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="assets/site/favicon_kwenniecheng.png">
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="nav-container">
+      <a href="index.html" class="logo">
+        <img src="assets/site/logo_kwenniecheng.png" alt="Kwennie Cheng" class="logo-desktop">
+        <img src="assets/site/logo_kwenniecheng_m.png" alt="Kwennie Cheng" class="logo-mobile">
+      </a>
+      <nav class="nav-links">
+        <!-- <a href="blog.html" class="active">Blog</a> -->
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-container">
+    <h1 class="page-title">Blog</h1>
+
+    <!-- BLOG POSTS STREAM -->
+    <div class="blog-stream" id="blog-stream">
+      <!-- Rendered automatically from data/posts.json -->
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

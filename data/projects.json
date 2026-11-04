@@ -268,16 +268,20 @@
     "meta": ["Client: Ministry of Justice and Security", "Year: 2019"]
   },
   {
-    "id": "project-14",
-    "title": "Project 14",
-    "categories": ["illustration", "motion"],
+    "id": "uitgezocht",
+    "title": "Uitgezocht (Jeugdjournaal)",
+    "categories": ["journalism", "motion"],
+    "thumb": "assets/projects/uitgezocht/thumb.png",   
     "images": [
-      "assets/projects/amsterdam/kwennie-CS-station.jpg"
+      "https://vimeo.com/1243356898?share=copy&fl=sv&fe=ci",
+      "https://vimeo.com/1243356897?fl=tl&fe=ec",
+      "https://youtu.be/c53Wk8rV_VY?si=FgvfjLCAlvhjnviv"
     ],
     "description":[
-      "first paragraph",
-      "second paragraph"
+      "I created the visual style of a newly launched Youtube explainer format called ‘Uitgezocht’, part of NOS jeugdjournaal: news for children aged 8-12 years old. ",
+      "The visual style had to fit within the existing identity of NOS Jeugdjournaal but also needed to have it’s own identity. Using simple geometric forms animated in a light, bouncy way, I developed a look that is playful for children but adaptable to more serious topics. ",
+      "I also designed the animated bumper that introduces each explainer and briefly presents the topic, ensuring a cohesive and engaging visual identity across episodes."
     ],
-    "meta": ["Client: personal project", "Year: 2023"]
+    "meta": ["Client: NOS", "Year: 2019"]
   }
 ]

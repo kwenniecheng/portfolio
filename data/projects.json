@@ -162,7 +162,7 @@
   {
     "id": "nosop3-climatechange",
     "title": "Climate change past, present and future",
-    "categories": ["journalism", "motion"],
+    "categories": ["datavis", "journalism", "motion"],
     "thumb": "assets/projects/nosop3-climatechange/thumb.png",
     "images": [
       "https://vimeo.com/1173790460?fl=pl&fe=sh",

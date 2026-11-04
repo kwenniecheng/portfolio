@@ -130,18 +130,21 @@
     "meta": ["Client: Nieuwsuur", "Year: 2023"]  
   },
   {
-    "id": "project-8",
-    "title": "Project 8",
-    "categories": ["journalism", "illustration"],
+    "id": "nosop3-climatechange",
+    "title": "Climate change past, present and future",
+    "categories": ["journalism", "motion"],
+    "thumb": "assets/projects/nosop3-climatechange/thumb.png",
     "images": [
-      "assets/projects/project-8/hero.jpg",
-      "assets/projects/project-8/image1.jpg"
+      "https://vimeo.com/1173790460?fl=pl&fe=sh",
+      "https://vimeo.com/1173790552?fl=pl&fe=sh",
+      "https://vimeo.com/1173790580?fl=pl&fe=sh",
+      "https://vimeo.com/1173790642?fl=pl&fe=sh"
     ],
     "description": [
-      "Description for Project 8.",
-      "Second line of description for Project 8."
+      "<a href='https://youtu.be/xRLbCYK_7fc?si=7SAsK9MpXpFLdqP_' target='_blank'>This video</a> explains the complexity of climate change by looking into the past, present and future.",
+      "I translated the script visually into a metaphor of a rubik’s cube to depict this complicity: changing one factor affects the others. I designed both the physical cubes in the set and the motion graphics that animate the story, creating a visual language that makes the interconnections tangible and understandable. "
     ],
-    "meta": ["Client: NAME", "Year: 202X"]  
+    "meta": ["Client: NOSop3", "Year: 2019"]  
   },
   {
     "id": "project-9",

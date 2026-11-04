@@ -80,6 +80,7 @@
     "id": "elections",
     "title": "Dutch general elections 2021",
     "categories": ["datavis", "journalism", "motion"],
+    "thumb": "assets/projects/elections/thumb.png",
     "images": [
       "https://vimeo.com/1173369389?fl=pl&fe=sh",
       "https://vimeo.com/1173369546?fl=pl&fe=sh"

@@ -162,18 +162,20 @@
     "meta": ["Client: Nieuwsuur", "Year: 2026"]  
   },
   {
-    "id": "project-10",
-    "title": "Project 10",
-    "categories": ["datavis", "journalism"],
+    "id": "coalition",
+    "title": "Forming a coalition",
+    "categories": ["journalism", "motion"],
+    "thumb": "assets/projects/coalition/thumb.png",    
     "images": [
-      "assets/projects/project-10/hero.jpg",
-      "assets/projects/project-10/image1.jpg"
+      "https://vimeo.com/1173768277?fl=pl&fe=sh",
+      "https://vimeo.com/1173768350?fl=pl&fe=sh",
+      "https://youtu.be/jBsiMmgRhfw?si=2IiWcOk0TXGif-bL"
     ],
     "description": [
-      "Description for Project 10.",
-      "Second line of description for Project 10."
+      "After the Dutch general elections in 2021, multiple parties needed to negotiate a coalition with at least 76 of 150 seats. ",
+      "I translated the complex political process visually into a metaphor of a strategic board game, representing each party with a number of pawns reflecting their seats. By combining motion graphics with tangible objects, I contributed to this video to show the possible coalition scenarios clear and accessible for a younger audience."
     ],
-    "meta": ["Client: NAME", "Year: 202X"]  
+    "meta": ["Client: NOSop3", "Year: 2021"]  
   },
   {
     "id": "project-11",

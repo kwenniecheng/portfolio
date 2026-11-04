@@ -85,6 +85,16 @@ function vimeoEmbedUrl(v) {
   return `https://player.vimeo.com/video/${v.id}?dnt=1${v.hash ? "&h=" + v.hash : ""}`;
 }
 
+// Returns the video id if the link is a YouTube link, otherwise null
+function parseYouTube(url) {
+  const m = String(url).match(/(?:youtu\.be\/|youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/|shorts\/))([\w-]{11})/);
+  return m ? m[1] : null;
+}
+
+function isVideo(src) {
+  return !!(parseVimeo(src) || parseYouTube(src));
+}
+
 // HTML for one carousel slide: a video player or an image
 function mediaHtml(src, title) {
   const safeTitle = String(title).replace(/"/g, "&quot;");
@@ -96,6 +106,14 @@ function mediaHtml(src, title) {
           allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
       </div>`;
   }
+  const yt = parseYouTube(src);
+  if (yt) {
+    return `
+      <div class="video-wrap">
+        <iframe src="https://www.youtube-nocookie.com/embed/${yt}" title="${safeTitle}"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+      </div>`;
+  }  
   const placeholder = `https://via.placeholder.com/1200x800?text=${encodeURIComponent(title)}`;
   return `<img class="carousel-main" src="${src}" alt="${safeTitle}" onerror="this.src='${placeholder}'">`;
 }
@@ -123,6 +141,10 @@ function buildCarousel(proj) {
           return `<button class="thumb thumb-video ${active}" data-index="${i}" data-vimeo-url="${vimeoPageUrl(v)}" aria-label="Show video ${i + 1}">${PLAY_ICON}</button>`;
         }
         return `<button class="thumb ${active}" data-index="${i}" aria-label="Show image ${i + 1}"><img src="${src}" alt="" loading="lazy"></button>`;
+        const yt = parseYouTube(src);
+        if (yt) {
+          return `<button class="thumb thumb-video ${active}" data-index="${i}" style="background-image:url('https://img.youtube.com/vi/${yt}/mqdefault.jpg')" aria-label="Show video ${i + 1}">${PLAY_ICON}</button>`;
+        }      
       }).join("")}
     </div>` : "";
 
@@ -137,6 +159,7 @@ function buildCarousel(proj) {
 }
 
 function initCarousel(card, items) {
+  if (!t.dataset.vimeoUrl) return;  
   const carousel = card.querySelector(".carousel");
   if (!carousel || items.length < 2) return;
 
@@ -180,7 +203,7 @@ function initCarousel(card, items) {
 // in the same folder as the project's first image.
 function thumbSrc(proj) {
   if (proj.thumb) return proj.thumb;
-  const first = (proj.images || []).find(src => !parseVimeo(src));
+  const first = (proj.images || []).find(src => !!isVideo(src));
   if (first && first.includes("/")) {
     return first.slice(0, first.lastIndexOf("/")) + "/thumb.png";
   }
@@ -209,7 +232,7 @@ function renderGrid() {
       const img = item.querySelector("img");
       const placeholder = `https://via.placeholder.com/800x600?text=${encodeURIComponent(proj.title)}`;
       img.addEventListener("error", () => {
-        const firstImg = (proj.images || []).find(src => !parseVimeo(src));
+        const firstImg = (proj.images || []).find(src => !!isVideo(src));
         img.onerror = () => { img.onerror = null; img.src = placeholder; };
         img.src = firstImg || placeholder;
       }, { once: true });

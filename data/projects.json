@@ -178,33 +178,73 @@
     "meta": ["Client: NOSop3", "Year: 2021"]  
   },
   {
-    "id": "project-11",
-    "title": "Project 11",
+    "id": "amsterdam",
+    "title": "Amsterdam",
     "categories": ["illustration"],
-    "images": ["assets/projects/project-11/hero.jpg"]
+    "images": [
+      "assets/projects/amsterdam/kwennie-CS-station.jpg",
+      "assets/projects/amsterdam/kwennie-leidseplein-internationaaltheater.jpg",
+      "assets/projects/amsterdam/kwennie-museumplein-rijks.jpg",
+      "assets/projects/amsterdam/kwennie-oudekerk.jpg",
+      "assets/projects/amsterdam/kwennie-paleisdam.jpg",
+      "assets/projects/amsterdam/kwennie-waterlooplein-mozesaaronkerk.jpg"
+    ],
+    "description":[
+      "first paragraph",
+      "second paragraph"
+    ],
+    "meta": ["Client: personal project", "Year: 2023"]
   },
   {
     "id": "project-12",
     "title": "Project 12",
     "categories": ["motion", "journalism"],
-    "images": ["assets/projects/project-12/hero.jpg"]
+    "images": [
+      "assets/projects/amsterdam/kwennie-CS-station.jpg"
+    ],
+    "description":[
+      "first paragraph",
+      "second paragraph"
+    ],
+    "meta": ["Client: personal project", "Year: 2023"]
   },
   {
     "id": "project-13",
     "title": "Project 13",
     "categories": ["datavis"],
-    "images": ["assets/projects/project-13/hero.jpg"]
+    "images": [
+      "assets/projects/amsterdam/kwennie-CS-station.jpg"
+    ],
+    "description":[
+      "first paragraph",
+      "second paragraph"
+    ],
+    "meta": ["Client: personal project", "Year: 2023"]
   },
   {
     "id": "project-14",
     "title": "Project 14",
     "categories": ["illustration", "motion"],
-    "images": ["assets/projects/project-14/hero.jpg"]
+    "images": [
+      "assets/projects/amsterdam/kwennie-CS-station.jpg"
+    ],
+    "description":[
+      "first paragraph",
+      "second paragraph"
+    ],
+    "meta": ["Client: personal project", "Year: 2023"]
   },
   {
     "id": "project-15",
     "title": "Project 15",
     "categories": ["journalism"],
-    "images": ["assets/projects/project-15/hero.jpg"]
+    "images": [
+      "assets/projects/amsterdam/kwennie-CS-station.jpg"
+    ],
+    "description":[
+      "first paragraph",
+      "second paragraph"
+    ],
+    "meta": ["Client: personal project", "Year: 2023"]
   }
 ]

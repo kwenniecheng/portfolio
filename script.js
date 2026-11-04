@@ -247,9 +247,12 @@ function buildProjectCard(proj) {
   card.className = "project-card";
   card.id = `card-${proj.id}`;
 
-  const linkBadge = proj.externalUrl
-    ? `<a href="${proj.externalUrl}" target="_blank" rel="noopener" class="ext-link-badge">Open project ↗</a>`
-    : "";
+  let linkBadge = "";
+  if (proj.id === "leader-age") {
+    linkBadge = `<span class="ext-link-badge disabled">Available soon</span>`;
+  } else if (proj.externalUrl) {
+    linkBadge = `<a href="${proj.externalUrl}" target="_blank" rel="noopener" class="ext-link-badge">Open project ↗</a>`;
+  }
 
   let descriptionHtml = "";
   if (proj.description) {

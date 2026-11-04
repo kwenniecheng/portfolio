@@ -845,3 +845,10 @@ a {
   .portfolio-main { padding: 20px 16px 60px; }
   .project-grid { grid-template-columns: 1fr; row-gap: 32px; }
 }
+
+.ext-link-badge.disabled {
+  background-color: var(--border-color);
+  color: var(--text-muted);
+  cursor: default;
+  opacity: 0.8;
+}

@@ -83,11 +83,12 @@
     "thumb": "assets/projects/elections/thumb.png",
     "images": [
       "https://vimeo.com/1173369389?fl=pl&fe=sh",
-      "https://vimeo.com/1173369546?fl=pl&fe=sh"
+      "https://vimeo.com/1173369546?fl=pl&fe=sh",
+      "https://youtu.be/jpKP-sMja00?si=YJZCj2zi9sPrV4g9"
     ],
     "description": [
       "Part of a series of analysis videos leading up to the 2023 Dutch national elections, each focusing on a key political issue.",
-      "For <a href='https://youtu.be/jpKP-sMja00?si=YJZCj2zi9sPrV4g9' target='_blank'>this episode</a> on the housing crisis, I translated data research into visuals. Colleague journalists analysed parliamentary motions and how each party voted, and I turned their findings into a heatmap, both as a physical set pieces and animated overlays, to highlight key insights. By combining tangible visuals with motion design, I helped make complex political data clear and engaging for viewers."
+      "For this episode on the housing crisis, I translated data research into visuals. Colleague journalists analysed parliamentary motions and how each party voted, and I turned their findings into a heatmap, both as a physical set pieces and animated overlays, to highlight key insights. By combining tangible visuals with motion design, I helped make complex political data clear and engaging for viewers."
     ],
     "meta": ["Client: Nieuwsuur", "Year: 2021"]    
   },  
@@ -138,10 +139,11 @@
       "https://vimeo.com/1173790460?fl=pl&fe=sh",
       "https://vimeo.com/1173790552?fl=pl&fe=sh",
       "https://vimeo.com/1173790580?fl=pl&fe=sh",
-      "https://vimeo.com/1173790642?fl=pl&fe=sh"
+      "https://vimeo.com/1173790642?fl=pl&fe=sh",
+      "https://youtu.be/xRLbCYK_7fc?si=7SAsK9MpXpFLdqP_"
     ],
     "description": [
-      "<a href='https://youtu.be/xRLbCYK_7fc?si=7SAsK9MpXpFLdqP_' target='_blank'>This video</a> explains the complexity of climate change by looking into the past, present and future.",
+      "This video explains the complexity of climate change by looking into the past, present and future.",
       "I translated the script visually into a metaphor of a rubik’s cube to depict this complicity: changing one factor affects the others. I designed both the physical cubes in the set and the motion graphics that animate the story, creating a visual language that makes the interconnections tangible and understandable. "
     ],
     "meta": ["Client: NOSop3", "Year: 2019"]  
@@ -153,11 +155,12 @@
     "thumb": "assets/projects/demo-iran/thumb.png",
     "images": [
       "https://vimeo.com/1177077946?fl=pl&fe=sh",
-      "https://vimeo.com/1173372945?fl=pl&fe=sh"
+      "https://vimeo.com/1173372945?fl=pl&fe=sh",
+      "https://youtu.be/5gw0s13itnA?si=fuW28PBg2_-4kMI9"
     ],
     "description": [
       "In late 2025, widespread protests erupted in Iran over rising oil prices and growing dissatisfaction, only to be violently suppressed while the government cut off internet access, leaving video and information scarce. ",
-      "<a href='https://youtu.be/5gw0s13itnA?si=fuW28PBg2_-4kMI9' target='_blank'>This project</a> started with a dataset of verified protest videos, each tagged by incident type and location. My role was to translate that data into a series of maps and a timeline. I used tags to plot separate maps showing different types of incidents, and selecting which videos to surface to show that demonstrations were spreading across the country rather than concentrated in one place."
+      "This project started with a dataset of verified protest videos, each tagged by incident type and location. My role was to translate that data into a series of maps and a timeline. I used tags to plot separate maps showing different types of incidents, and selecting which videos to surface to show that demonstrations were spreading across the country rather than concentrated in one place."
     ],
     "meta": ["Client: Nieuwsuur", "Year: 2026"]  
   },
@@ -196,17 +199,20 @@
     "meta": ["Client: personal project", "Year: 2023"]
   },
   {
-    "id": "project-12",
-    "title": "Project 12",
+    "id": "far-right",
+    "title": "Far Right in Germany",
     "categories": ["motion", "journalism"],
+    "thumb": "assets/projects/far-right/thumb.png",       
     "images": [
-      "assets/projects/amsterdam/kwennie-CS-station.jpg"
+      "https://vimeo.com/1243255486?share=copy",
+      "https://vimeo.com/1243256160?share=copy",
+      "https://youtu.be/l2Jjo89wJPs?si=mqR43x2O8c9C6sYP"
     ],
     "description":[
-      "first paragraph",
-      "second paragraph"
+      "I visualised election results and socio-economic data to show where AfD became the largest party and how support correlates with income. ",
+      "Using maps, graphs, and animations including average income per municipality, the video highlights that AfD support is strongest in relatively poorer regions. By combining multiple visual layers, I made complex electoral data clear, contextualized, and engaging for viewers."
     ],
-    "meta": ["Client: personal project", "Year: 2023"]
+    "meta": ["Client: Nieuwsuur", "Year: 2023"]
   },
   {
     "id": "project-13",

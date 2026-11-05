@@ -33,7 +33,18 @@ document.addEventListener("DOMContentLoaded", () => {
     initBlog();
   }
 });
+// random dot color (blue, pink or yellow) each time you hover an about/contact link
+(function () {
+  var colors = ['#508fff', '#ff76a0', '#ffc02d'];   // blue, pink, yellow
 
+  document.querySelectorAll('.about-text a, .contact-wrap a, .highlight-link')
+    .forEach(function (link) {
+      link.addEventListener('mouseenter', function () {
+        var c = colors[Math.floor(Math.random() * colors.length)];
+        link.style.setProperty('--dot-color', c);
+      });
+    });
+})();
 /* ==========================================================================
    1. PORTFOLIO ENGINE (Projects)
    ========================================================================== */

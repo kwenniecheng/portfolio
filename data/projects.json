@@ -106,28 +106,6 @@
     "meta": ["Client: various", "Year: 2019-present"]    
   },
   {
-    "id": "chinindrest",
-    "title": "Chin. Ind. Rest.",
-    "categories": ["illustration"],
-    "images": [
-      "assets/projects/chinindrest/G85_chineserijsttafel.webp",
-      "assets/projects/chinindrest/G12_vogelnestje.webp",
-      "assets/projects/chinindrest/G13_chun hiukai.webp",
-      "assets/projects/chinindrest/G58_kipoestersaus.webp",
-      "assets/projects/chinindrest/G59_teppanyakibiefstuk.webp",
-      "assets/projects/chinindrest/G00_rijst-2.webp",
-      "assets/projects/chinindrest/G2_suiyuk.webp",
-      "assets/projects/chinindrest/G5_loempiagroot.webp",
-      "assets/projects/chinindrest/G33_sambalgorengtelorpedis.webp",
-      "assets/projects/chinindrest/G83_siumai.webp"
-   ],
-   "description":[
-      "'Meer dan babipangang' founder Julie Ng worked on a documentary about the heritage of Chin. Ind. Rest.: Chinese Indonesian restaurants, a well known formula for restaurants in the Netherlands. As a daughter of a former owner of such restaurant, she also dug into her personal history.",
-      "<a href='https://bersamamagazine.nl/' target='_blank'>Bersama magazine</a> launched a special edition with recipes from Julie's dad, straight from the Chin. Ind. Rest. kitchen. I illustrated over 30 dishes, all well familiar from my own time working in a Chin. Ind. Rest. from the age of 16-19. "
-    ],
-   "meta": ["Client: Stichting Meer dan babipangang", "Year: 2026"]
-  },
-  {
     "id": "elections",
     "title": "Dutch general elections 2021",
     "categories": ["datavis", "journalism", "motion"],
@@ -181,6 +159,28 @@
     ],
     "meta": ["Client: Nieuwsuur", "Year: 2023"]  
   },
+  {
+    "id": "chinindrest",
+    "title": "Chin. Ind. Rest.",
+    "categories": ["illustration"],
+    "images": [
+      "assets/projects/chinindrest/G85_chineserijsttafel.webp",
+      "assets/projects/chinindrest/G12_vogelnestje.webp",
+      "assets/projects/chinindrest/G13_chunhiukai.webp",
+      "assets/projects/chinindrest/G58_kipoestersaus.webp",
+      "assets/projects/chinindrest/G59_teppanyakibiefstuk.webp",
+      "assets/projects/chinindrest/G00_rijst-2.webp",
+      "assets/projects/chinindrest/G2_suiyuk.webp",
+      "assets/projects/chinindrest/G5_loempiagroot.webp",
+      "assets/projects/chinindrest/G33_sambalgorengtelorpedis.webp",
+      "assets/projects/chinindrest/G83_siumai.webp"
+   ],
+   "description":[
+      "'Meer dan babipangang' founder Julie Ng worked on a documentary about the heritage of Chin. Ind. Rest.: Chinese Indonesian restaurants, a well known formula for restaurants in the Netherlands. As a daughter of a former owner of such restaurant, she also dug into her personal history.",
+      "<a href='https://bersamamagazine.nl/' target='_blank'>Bersama magazine</a> launched a special edition with recipes from Julie's dad, straight from the Chin. Ind. Rest. kitchen. I illustrated over 30 dishes, all well familiar from my own time working in a Chin. Ind. Rest. from the age of 16-19. "
+    ],
+   "meta": ["Client: Stichting Meer dan babipangang", "Year: 2026"]
+  },  
   {
     "id": "nosop3-climatechange",
     "title": "Climate change past, present and future",

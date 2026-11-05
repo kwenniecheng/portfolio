@@ -524,7 +524,7 @@ a {
 }
 
 .page-title {
-  font-size: 2.5rem;
+  font-size: 1.3rem;
   margin-bottom: 40px;
 }
 
@@ -548,19 +548,20 @@ a {
 }
 
 .about-text .lead {
-  font-size: 1.15rem;
+  font-size: 0.85rem;
   font-weight: 500;
   margin-bottom: 20px;
 }
 
 .about-text p {
   margin-bottom: 16px;
+  font-size: 0.85rem;
   color: var(--text-primary);
 }
 
 /* CONTACT PAGE */
 .contact-wrap h1 {
-  font-size: 2.2rem;
+  font-size: 1.3rem;
   margin-bottom: 16px;
 }
 
@@ -570,7 +571,7 @@ a {
 }
 
 .contact-details p {
-  font-size: 1.05rem;
+  font-size: 0.85rem;
   margin-bottom: 12px;
 }
 
@@ -622,7 +623,7 @@ a {
 }
 
 .blog-title {
-  font-size: 1.75rem;
+  font-size: 1.3rem;
   margin-bottom: 16px;
 }
 

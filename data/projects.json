@@ -123,7 +123,7 @@
   },  
   {
     "id": "duiker-doris",
-    "title": "Doris the Diver, Martime Museum Amsterdam",
+    "title": "Doris the Diver",
     "categories": ["illustration"],
     "images": [
       "assets/projects/duiker-doris/HSM_DD_3.jpg",
@@ -166,7 +166,7 @@
     "images": [
       "assets/projects/chinindrest/G85_chineserijsttafel.webp",
       "assets/projects/chinindrest/G12_vogelnestje.webp",
-      "assets/projects/chinindrest/G13_chunhiukai.webp",
+      "assets/projects/chinindrest/G13_chunchiukai.webp",
       "assets/projects/chinindrest/G58_kipoestersaus.webp",
       "assets/projects/chinindrest/G59_teppanyakibiefstuk.webp",
       "assets/projects/chinindrest/G00_rijst-2.webp",
@@ -183,7 +183,7 @@
   },  
   {
     "id": "nosop3-climatechange",
-    "title": "Climate change past, present and future",
+    "title": "Climate change explainer",
     "categories": ["datavis", "journalism", "motion"],
     "thumb": "assets/projects/nosop3-climatechange/thumb.png",
     "images": [
@@ -291,7 +291,7 @@
   },
   {
     "id": "uitgezocht",
-    "title": "Uitgezocht (Jeugdjournaal)",
+    "title": "Uitgezocht explainers",
     "categories": ["journalism", "motion"],
     "thumb": "assets/projects/uitgezocht/thumb.png",   
     "images": [

@@ -559,30 +559,18 @@ a {
   color: var(--text-primary);
 }
 
-/* CONTACT PAGE */
-.contact-wrap h1 {
-  font-size: 1.3rem;
-  margin-bottom: 16px;
-}
-
-.contact-wrap .lead {
-  font-size: 0.85rem;
-  margin-bottom: 30px;
-}
-
-.contact-details p {
-  font-size: 0.85rem;
-  margin-bottom: 12px;
-}
-
+/* ABOUT + CONTACT LINKS: same dot hover as the nav, text turns bold */
+.about-text a,
+.contact-wrap a,
 .highlight-link {
   position: relative;
-  isolation: isolate;
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
+  isolation: isolate;          /* keeps the dot behind the text */
+  font-weight: 500;
+  text-decoration: none;
 }
 
+.about-text a::before,
+.contact-wrap a::before,
 .highlight-link::before {
   content: "";
   position: absolute;
@@ -599,9 +587,34 @@ a {
   transition: opacity 0.15s, transform 0.15s;
 }
 
+.about-text a:hover::before,
+.contact-wrap a:hover::before,
 .highlight-link:hover::before {
   opacity: 1;
   transform: scale(1);
+}
+
+/* looks bold on hover, but doesn't change the text width (no layout shift) */
+.about-text a:hover,
+.contact-wrap a:hover,
+.highlight-link:hover {
+  -webkit-text-stroke: 0.6px currentColor;
+}
+
+/* CONTACT PAGE */
+.contact-wrap h1 {
+  font-size: 1.3rem;
+  margin-bottom: 16px;
+}
+
+.contact-wrap .lead {
+  font-size: 0.85rem;
+  margin-bottom: 30px;
+}
+
+.contact-details p {
+  font-size: 0.85rem;
+  margin-bottom: 12px;
 }
 
 /* BLOG PAGE */
@@ -852,4 +865,4 @@ a {
   color: var(--text-muted);
   cursor: default;
   opacity: 0.8;
-} 
+}

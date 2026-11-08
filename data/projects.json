@@ -11,7 +11,7 @@
   "description":[
     "A recurring theme among world leaders. But Trump and Putin are not the oldest men leading their nations. How exceptional is it to hold the highest office when well over the retirement age?"
   ],
-  "meta": ["personal project", "Year: 2026"]
+  "meta": ["personal project", "solo project", "Year: 2026"]
 },
 {
   "id": "land-appropriation",
@@ -25,7 +25,7 @@
     "My grandmother farmland became gradually smaller in rural China as local development plans changed the landscape around her. From 1996 until 2017, I followed how the land she once farmed was incrementally taken for infrastructure and urban expansion. Eventually, she was relocated and the place where her home and fields once stood is now occupied by a gas station and a major road.",
     "In Western media, land appropriation in China is often portrayed as sudden and conflict-driven. While such conflicts do happen, many cases unfold more gradually and with little conflict or confrontation. By focusing on the personal story of my grandmother, this piece shows the broader transformation of China’s rural landscape. This is a dynamic rendition of the <a href='https://decorrespondent.nl/7383/beeldverhaal-china-moderniseert-dus-werd-mijn-oma-s-land-onteigend/2e41dd03-487d-0dae-2897-0e8e2d26b93f' target='_blank'>original story</a>."
    ],
-  "meta": ["Client: De Correspondent/ personal project rendition", "Year: 2017/ 2026"]  
+  "meta": ["Client: De Correspondent/ personal project rendition", "solo project", "Year: 2017/ 2026"]  
 },  
 {
   "id": "oogopslag",
@@ -45,7 +45,7 @@
     "Selected work for Dutch newspaper NRC, where I create a biweekly data-driven illustration column. I pitch story ideas, conduct independent research, and translate the findings into illustrations for the op-ed section, published both in print and online.",
     "Click <a href='https://www.nrc.nl/rubriek/oogopslag/' target='_blank' rel='noopener noreferrer'>here</a> to view them all in Dutch."
   ],
-  "meta": ["Client: NRC", "Year: 2023-present"]
+  "meta": ["Client: NRC", "solo project", "Year: 2023-present"]
 },
 {
    "id": "far-right",
@@ -61,7 +61,7 @@
      "I visualised election results and socio-economic data to show where AfD became the largest party and how support correlates with income. ",
      "Using maps, graphs, and animations including average income per municipality, the video highlights that AfD support is strongest in relatively poorer regions. By combining multiple visual layers, I made complex electoral data clear, contextualized, and engaging for viewers."
    ],
-   "meta": ["Client: Nieuwsuur", "Year: 2023"]
+   "meta": ["Client: Nieuwsuur", "collaborative project", "Year: 2023"]
 },
 {
     "id": "nobelprize",
@@ -80,7 +80,7 @@
      "I designed a collection of visualisations showing that the overwhelming majority of Nobel Prize laureates are wealthy, Western men. While representation is slowly improving, the disparity remains significant. The project combines more complex data visualisations with simpler charts, where I could loosen the strict, clean style and incorporate illustrations directly into the graphics. I wanted to add playfulness while keeping the data readable and engaging.",
      "Click <a href='https://www.nrc.nl/nieuws/2025/10/03/wie-maakt-de-meeste-kans-op-een-nobelprijs-a4908080' target='_blank' rel='noopener noreferrer'>here</a> to view the project at NRC."
    ],
-   "meta": ["Client: NRC", "Year: 2025"]    
+   "meta": ["Client: NRC", "solo project", "Year: 2025"]    
 },
   {
     "id": "editorial",
@@ -103,7 +103,7 @@
     "description": [
       "Selected editorial illustration work from the past 12 years, where I explore visual metaphors to capture the essence of each story. Illustrations have been created for various newspapers and magazines, including Trouw, NRC, De Volkskrant, and VPRO."
     ],
-    "meta": ["Client: various", "Year: 2019-present"]    
+    "meta": ["Client: various", "solo projects", "Year: 2019-present"]    
   },
   {
     "id": "filmdata",
@@ -118,7 +118,7 @@
     "description":[
      "Data illustrations on film releases in cinemas in the Netherlands in 2025."
     ],
-    "meta": ["Client: VPRO", "Year: 2025"]
+    "meta": ["Client: VPRO", "collaborative project", "Year: 2025"]
   }, 
   {
     "id": "elections",
@@ -134,7 +134,7 @@
       "Part of a series of analysis videos leading up to the 2023 Dutch national elections, each focusing on a key political issue.",
       "For this episode on the housing crisis, I translated data research into visuals. Colleague journalists analysed parliamentary motions and how each party voted, and I turned their findings into a heatmap, both as a physical set pieces and animated overlays, to highlight key insights. By combining tangible visuals with motion design, I helped make complex political data clear and engaging for viewers."
     ],
-    "meta": ["Client: Nieuwsuur", "Year: 2021"]    
+    "meta": ["Client: Nieuwsuur", "collaborative project","Year: 2021"]    
   },     
   {
     "id": "duiker-doris",
@@ -156,7 +156,7 @@
       "Together, visitors can explore the worlds under and on the surface of the water and follow Diver Doris on her quest from sea to land.",
       "Doris the Diver is a <a href='https://www.hetscheepvaartmuseum.nl/doen/tentoonstellingen/duiker-doris' target='_blank'>permanent exhibition</a> and opened in October 2022."
     ],
-    "meta": ["Client: Het Scheepvaartmuseum, Amsterdam", "Year: 2022"]     
+    "meta": ["Client: Het Scheepvaartmuseum, Amsterdam", "collaborative project", "Year: 2022"]     
   },
   {
     "id": "modern-slavery",
@@ -172,7 +172,7 @@
     "description": [
       "his story reports on modern slavery in Ecuador, Lebanon, Thailand and the Netherlands. Given an audio testimony and some location footage as reference, I developed the storyboard and decided what to reconstruct frame by frame. Because hand-drawn animation is time-intensive, I worked with reporters to shorten the testimonies to what was feasible without losing the story. The editor opted for illustrations over staged video reconstruction to signal clearly it was a retelling. I chose a frame-by-frame approach to combine my illustration style with animation. Working within Nieuwsuur's visual style, I sourced additional reference material to draw from."
     ],
-    "meta": ["Client: Nieuwsuur", "Year: 2023"]  
+    "meta": ["Client: Nieuwsuur", "collaborative project", "Year: 2023"]  
   },
   {
     "id": "chinindrest",
@@ -194,7 +194,7 @@
       "'Meer dan babipangang' founder Julie Ng worked on a documentary about the heritage of Chin. Ind. Rest.: Chinese Indonesian restaurants, a well known formula for restaurants in the Netherlands. As a daughter of a former owner of such restaurant, she also dug into her personal history.",
       "<a href='https://bersamamagazine.nl/' target='_blank'>Bersama magazine</a> launched a special edition with recipes from Julie's dad, straight from the Chin. Ind. Rest. kitchen. I illustrated over 30 dishes, all well familiar from my own time working in a Chin. Ind. Rest. from the age of 16-19. "
     ],
-   "meta": ["Client: Stichting Meer dan babipangang", "Year: 2026"]
+   "meta": ["Client: Stichting Meer dan babipangang", "collaborative project", "Year: 2026"]
   },  
   {
     "id": "nosop3-climatechange",
@@ -212,7 +212,7 @@
       "This video explains the complexity of climate change by looking into the past, present and future.",
       "I translated the script visually into a metaphor of a rubik’s cube to depict this complicity: changing one factor affects the others. I designed both the physical cubes in the set and the motion graphics that animate the story, creating a visual language that makes the interconnections tangible and understandable. "
     ],
-    "meta": ["Client: NOSop3", "Year: 2019"]  
+    "meta": ["Client: NOSop3", "collaborative project", "Year: 2019"]  
   },
   {
     "id": "demo-iran",
@@ -228,7 +228,7 @@
       "In late 2025, widespread protests erupted in Iran over rising oil prices and growing dissatisfaction, only to be violently suppressed while the government cut off internet access, leaving video and information scarce. ",
       "This project started with a dataset of verified protest videos, each tagged by incident type and location. My role was to translate that data into a series of maps and a timeline. I used tags to plot separate maps showing different types of incidents, and selecting which videos to surface to show that demonstrations were spreading across the country rather than concentrated in one place."
     ],
-    "meta": ["Client: Nieuwsuur", "Year: 2026"]  
+    "meta": ["Client: Nieuwsuur", "collaborative project", "Year: 2026"]  
   },
   {
     "id": "coalition",
@@ -244,7 +244,7 @@
       "After the Dutch general elections in 2021, multiple parties needed to negotiate a coalition with at least 76 of 150 seats. ",
       "I translated the complex political process visually into a metaphor of a strategic board game, representing each party with a number of pawns reflecting their seats. By combining motion graphics with tangible objects, I contributed to this video to show the possible coalition scenarios clear and accessible for a younger audience."
     ],
-    "meta": ["Client: NOSop3", "Year: 2021"]  
+    "meta": ["Client: NOSop3", "collaborative project", "Year: 2021"]  
   },
   {
     "id": "amsterdam",
@@ -302,7 +302,7 @@
       "Within the Dutch Ministry of Justice and Security in The Hague meeting rooms are named after Dutch artists and thinkers.",
       "Each of these 14 meeting rooms are now provided with illustrated portraits reflected on what made them stand out, how their work moved our science, art, philosophy or social environment forward throughout history."
     ],
-    "meta": ["Client: Ministry of Justice and Security", "Year: 2019"]
+    "meta": ["Client: Ministry of Justice and Security", "collaborative project", "Year: 2019"]
   },
   {
     "id": "uitgezocht",
@@ -319,6 +319,6 @@
       "The visual style had to fit within the existing identity of NOS Jeugdjournaal but also needed to have it’s own identity. Using simple geometric forms animated in a light, bouncy way, I developed a look that is playful for children but adaptable to more serious topics. ",
       "I also designed the animated bumper that introduces each explainer and briefly presents the topic, ensuring a cohesive and engaging visual identity across episodes."
     ],
-    "meta": ["Client: NOS", "Year: 2019"]
+    "meta": ["Client: NOS", "collaborative project", "Year: 2019"]
   }
 ]

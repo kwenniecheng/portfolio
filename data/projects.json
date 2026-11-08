@@ -50,7 +50,7 @@
 {
    "id": "far-right",
    "title": "Far Right in Germany",
-   "categories": ["data", "motion", "journalism"],
+   "categories": ["datavis", "journalism", "motion"],
    "thumb": "assets/projects/far-right/thumb.png",       
    "images": [
      "https://vimeo.com/1243255486?share=copy",
@@ -106,6 +106,21 @@
     "meta": ["Client: various", "Year: 2019-present"]    
   },
   {
+    "id": "filmdata",
+    "title": "film data",
+    "categories": ["datavis", "illustration"],
+    "thumb": "assets/projects/filmdata/thumb.png",   
+    "images": [
+      "assets/projects/filmdata/genres_vpro.jpg",
+      "assets/projects/filmdata/landen_vpro.jpg",
+      "assets/projects/filmdata/seizoenspeelduur.jpg"
+    ],
+    "description":[
+     "Data illustrations on film releases in cinemas in the Netherlands in 2025."
+    ],
+    "meta": ["Client: VPRO", "Year: 2025"]
+  }, 
+  {
     "id": "elections",
     "title": "Dutch general elections 2021",
     "categories": ["datavis", "journalism", "motion"],
@@ -120,22 +135,7 @@
       "For this episode on the housing crisis, I translated data research into visuals. Colleague journalists analysed parliamentary motions and how each party voted, and I turned their findings into a heatmap, both as a physical set pieces and animated overlays, to highlight key insights. By combining tangible visuals with motion design, I helped make complex political data clear and engaging for viewers."
     ],
     "meta": ["Client: Nieuwsuur", "Year: 2021"]    
-  },  
-  {
-    "id": "filmdata",
-    "title": "film data",
-    "categories": ["data", "illustration"],
-    "thumb": "assets/projects/filmdata/thumb.png",   
-    "images": [
-      "assets/projects/filmdata/genres_vpro.jpg",
-      "assets/projects/filmdata/landen_vpro.jpg",
-      "assets/projects/filmdata/seizoenspeelduur.jpg"
-    ],
-    "description":[
-     "Data illustrations on film releases in cinemas in the Netherlands in 2025."
-    ],
-    "meta": ["Client: VPRO", "Year: 2025"]
-  },  
+  },     
   {
     "id": "duiker-doris",
     "title": "Doris the Diver",
@@ -217,7 +217,7 @@
   {
     "id": "demo-iran",
     "title": "Demonstrations in Iran",
-    "categories": ["journalism", "data", "motion"],
+    "categories": ["journalism", "datavis", "motion"],
     "thumb": "assets/projects/demo-iran/thumb.png",
     "images": [
       "https://vimeo.com/1177077946?fl=pl&fe=sh",

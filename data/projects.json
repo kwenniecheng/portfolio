@@ -50,7 +50,7 @@
 {
    "id": "far-right",
    "title": "Far Right in Germany",
-   "categories": ["motion", "journalism"],
+   "categories": ["data", "motion", "journalism"],
    "thumb": "assets/projects/far-right/thumb.png",       
    "images": [
      "https://vimeo.com/1243255486?share=copy",
@@ -121,6 +121,21 @@
     ],
     "meta": ["Client: Nieuwsuur", "Year: 2021"]    
   },  
+  {
+    "id": "filmdata",
+    "title": "film data",
+    "categories": ["data", "illustration"],
+    "thumb": "assets/projects/filmdata/thumb.png",   
+    "images": [
+      "assets/projects/filmdata/genres_vpro.jpg",
+      "assets/projects/filmdata/landen_vpro.jpg",
+      "assets/projects/filmdata/seizoenspeelduur.jpg"
+    ],
+    "description":[
+     "Data illustrations on film releases in cinemas in the Netherlands in 2025."
+    ],
+    "meta": ["Client: VPRO", "Year: 2025"]
+  }  
   {
     "id": "duiker-doris",
     "title": "Doris the Diver",
@@ -202,7 +217,7 @@
   {
     "id": "demo-iran",
     "title": "Demonstrations in Iran",
-    "categories": ["motion"],
+    "categories": ["journalism", "data", "motion"],
     "thumb": "assets/projects/demo-iran/thumb.png",
     "images": [
       "https://vimeo.com/1177077946?fl=pl&fe=sh",

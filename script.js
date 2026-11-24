@@ -259,9 +259,7 @@ function buildProjectCard(proj) {
   card.id = `card-${proj.id}`;
 
   let linkBadge = "";
-  if (proj.id === "leader-age") {
-    linkBadge = `<span class="ext-link-badge disabled">Available soon</span>`;
-  } else if (proj.externalUrl) {
+  if (proj.externalUrl) {
     linkBadge = `<a href="${proj.externalUrl}" target="_blank" rel="noopener" class="ext-link-badge">Open project ↗</a>`;
   }
 
